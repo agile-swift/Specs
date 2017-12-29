@@ -1,0 +1,22 @@
+{
+  "name": "ATUIKit",
+  "version": "0.1.4",
+  "summary": "One of Agile Tools named ATUIKit",
+  "description": "One of Agile Tools,used for supporting base UI service for develop",
+  "homepage": "https://github.com/agile-swift/ATUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kevin": "admin@makaiwen.com"
+  },
+  "source": {
+    "git": "https://github.com/agile-swift/ATUIKit.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ATUIKit/Classes/**/*"
+}
