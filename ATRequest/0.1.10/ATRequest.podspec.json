@@ -1,0 +1,27 @@
+{
+  "name": "ATRequest",
+  "version": "0.1.10",
+  "summary": "A short description of ATRequest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/agile-swift/ATRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "admin@makaiwen.com": "admin@makaiwen.com"
+  },
+  "source": {
+    "git": "https://github.com/agile-swift/ATRequest.git",
+    "tag": "0.1.10"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "dependencies" : {
+    "Alamofire" : [],
+    "HandyJSON" : ["~>4.2.0"],
+      "YYCache" : []
+  },
+  "source_files": "ATRequest/Classes/**/*"
+}
